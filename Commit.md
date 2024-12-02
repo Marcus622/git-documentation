@@ -1,0 +1,1 @@
+Ein Commit in Git bezeichnet eine "Momentaufnahme" des aktuellen Zustands eines Repositories zu einem bestimmten Zeitpunkt. Es ist der Prozess, bei dem Änderungen, die in einem Git-Repository vorgenommen wurden, dauerhaft gespeichert und in die Versionshistorie aufgenommen werden.
