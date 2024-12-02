@@ -1,0 +1,1 @@
+Git ist ein verteiltes Versionskontrollsystem, das hauptsächlich zur Verwaltung von Quellcode in Softwareentwicklungsprojekten verwendet wird. Es wurde von Linus Torvalds (dem Schöpfer von Linux) im Jahr 2005 entwickelt, um die Zusammenarbeit an großen Softwareprojekten zu erleichtern und gleichzeitig eine effiziente Versionskontrolle zu bieten.
