@@ -1,0 +1,1 @@
+Ein Repository (kurz: Repo) in Git ist ein Speicherort, der alle Dateien, Ordner und die vollständige Historie eines Projekts enthält. Es speichert nicht nur den aktuellen Stand der Dateien, sondern auch alle früheren Versionen und Änderungen (Commits) des Projekts. Ein Repository ist der zentrale Ort, an dem der gesamte Code und die Historie eines Projekts verwaltet werden.
