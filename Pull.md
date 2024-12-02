@@ -1,0 +1,1 @@
+Der Begriff "Pull" bei Git bezeichnet den Vorgang, bei dem lokale Änderungen mit einem entfernten Repository (z.B. auf GitHub, GitLab oder Bitbucket) synchronisiert werden. git pull ist ein Git-Befehl, der sowohl den Download der neuesten Änderungen vom entfernten Repository als auch das Mergen dieser Änderungen in den aktuellen lokalen Branch beinhaltet.
